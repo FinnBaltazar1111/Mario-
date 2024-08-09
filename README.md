@@ -1,4 +1,4 @@
-# MarioV3
+# Mario
 This repository contains the complete source code for MarioV3 version 3.4.0.0 (Super Fanmade Mario Bros), with many changes made with the goal of feature parity with MarioV3 version 5.22.0.4422.
 
 ![2023-04-17_10-55-45](https://user-images.githubusercontent.com/130991082/232506040-0125d30b-8e82-4bdc-ad33-097fd45b6099.png)
